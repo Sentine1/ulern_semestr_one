@@ -1,0 +1,9 @@
+C:\Users\zaba\source\repos\Solve_and_tests\Solver\bin\Debug\netstandard2.0\Solver.deps.json
+C:\Users\zaba\source\repos\Solve_and_tests\Solver\bin\Debug\netstandard2.0\Solver.dll
+C:\Users\zaba\source\repos\Solve_and_tests\Solver\bin\Debug\netstandard2.0\Solver.pdb
+C:\Users\zaba\source\repos\Solve_and_tests\Solver\obj\Debug\netstandard2.0\Solver.csprojAssemblyReference.cache
+C:\Users\zaba\source\repos\Solve_and_tests\Solver\obj\Debug\netstandard2.0\Solver.csproj.CoreCompileInputs.cache
+C:\Users\zaba\source\repos\Solve_and_tests\Solver\obj\Debug\netstandard2.0\Solver.AssemblyInfoInputs.cache
+C:\Users\zaba\source\repos\Solve_and_tests\Solver\obj\Debug\netstandard2.0\Solver.AssemblyInfo.cs
+C:\Users\zaba\source\repos\Solve_and_tests\Solver\obj\Debug\netstandard2.0\Solver.dll
+C:\Users\zaba\source\repos\Solve_and_tests\Solver\obj\Debug\netstandard2.0\Solver.pdb

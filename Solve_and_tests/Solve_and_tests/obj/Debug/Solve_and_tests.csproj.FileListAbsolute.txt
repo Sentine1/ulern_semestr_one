@@ -1,0 +1,10 @@
+C:\Users\zaba\source\repos\Solve_and_tests\Solve_and_tests\bin\Debug\Solve_and_tests.exe.config
+C:\Users\zaba\source\repos\Solve_and_tests\Solve_and_tests\bin\Debug\Solve_and_tests.exe
+C:\Users\zaba\source\repos\Solve_and_tests\Solve_and_tests\bin\Debug\Solve_and_tests.pdb
+C:\Users\zaba\source\repos\Solve_and_tests\Solve_and_tests\bin\Debug\Solver.dll
+C:\Users\zaba\source\repos\Solve_and_tests\Solve_and_tests\bin\Debug\Solver.pdb
+C:\Users\zaba\source\repos\Solve_and_tests\Solve_and_tests\obj\Debug\Solve_and_tests.csprojAssemblyReference.cache
+C:\Users\zaba\source\repos\Solve_and_tests\Solve_and_tests\obj\Debug\Solve_and_tests.csproj.CoreCompileInputs.cache
+C:\Users\zaba\source\repos\Solve_and_tests\Solve_and_tests\obj\Debug\Solve_and_tests.csproj.CopyComplete
+C:\Users\zaba\source\repos\Solve_and_tests\Solve_and_tests\obj\Debug\Solve_and_tests.exe
+C:\Users\zaba\source\repos\Solve_and_tests\Solve_and_tests\obj\Debug\Solve_and_tests.pdb
